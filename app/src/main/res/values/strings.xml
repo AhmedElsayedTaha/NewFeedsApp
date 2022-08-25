@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewFeedsApp</string>
+    <string name="explore">Explore</string>
+    <string name="live_chat">Live Chat</string>
+    <string name="gallery">Gallery</string>
+    <string name="wish_list">Wish List</string>
+    <string name="e_magazine">E-Magazine</string>
+    <string name="welcome">Welcome</string>
+    <string name="user_name">Tony Roshdy</string>
+    <string name="nav_open">Open navigation drawer</string>
+    <string name="nav_close">Close navigation drawer</string>
+    <string name="link_development">LINK DEVELOPMENT</string>
+    <string name="by">By </string>
+    <string name="open_website">OPEN WEBSITE</string>
+</resources>
